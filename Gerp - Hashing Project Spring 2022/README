@@ -1,0 +1,123 @@
+A) Title and Author
+    - Assignment: Proj 3 Gerp
+    - Authors: Benjamin Schmelkin and Ian Dhar
+
+B) Purpose
+    The purpose of this program was to impliment a grep-style file indexing
+    system (called gerp). Client is to look up words and the program will
+    print all the instances the word occurs in the inputed directory.
+
+C) Acknowledgements 
+    - Richard Diamond
+    - CS15 TA's 
+    - c++ reference website
+
+D) Files Included:
+main.cpp: 
+    Our main class is a simple driver method that launches the simulation
+    and returns 0 at the end.
+     
+runGerp.cpp:
+    Implementation of the RunGerp class. Has the functionality to take user
+    input and interact with the hash table to handle and perform queries, 
+    print results, and give error messages. 
+    
+runGerp.h:
+    Interface of RunGerp class.
+    
+wordHash.cpp:
+    Implementation of WordHash class. Creates our hashtable from directory
+    using hash function and prints output from queries. Class also stores
+    all pathways. 
+    
+wordHash.h:
+    Interface of WordHash class.
+    
+stringProcessing.cpp: 
+    Contains function that removes all nonalphanumic characters from
+    an inputed string.
+
+stringProcessing.h: 
+    Interface of stringProcessing class.
+    
+commands.txt:
+    sample testing file used for diff testing. All commands files are 
+    for this purpose and utilized for testing.
+
+sortedrefmedout.txt and sortedourmedout.txt:
+    Examples of two sorted output files used for diff testing.
+    These output files were produced from a commands file being
+    run on our implementation and the reference implementation. 
+
+unit_test.h:
+    used to test stringProcessing function: stripNonAlphaNum.
+
+E) Compile/run:
+     - Compile using
+            make
+     - run executable with
+            ./gerp directoryName outputFile
+
+F) Architectural Overview:
+    Our program's RunGerp file contains a WordHash object named allWordsList
+    and utilizes this object to search for queried words as it runs the
+    command loop. Thus, the WordHash object provides a bridge from the user's
+    input to the the data being searched for by the use of WordHash's hash
+    function. In our WordHash, we have built multiple structs used to form our
+    hash function. The most rudimentary of these is our PathNode struct.
+    These Path Nodes store strings of the full pathway and line of every line
+    in the inputed files and are held in a vector of PathNode.
+    Then our Word Struct, which stores a string of the 
+    Word and a vector of ints storing the indices of all the pathways with
+    this word in it in the vector of PathNodes. Then we have WordLists which 
+    store a list of Word structs of each variation of a word and a key which
+    is the all lower case version of the words being stored. Then we have a 
+    CollisionsWordList struct that is a list of WordList objects. This stores
+    all the words that using the hash function link to the same index in our
+    hash table. WordHash additionally uses the FSTree file to traverse files
+    from the inputed directory and create the HashTable. FSTree has a pointer
+    the root DirNode and uses DirNode commands for operations such as 
+    preOrderCopy. Our stringProcessing file is used by both WordHash and 
+    RunGerp to remove all nonalphanumeric characters when necessary from files
+    and queries. Finally, our main sets up the hash table using WordHash
+    and starts the siumulation using runGerp. 
+
+G) Outline of Data Structures:
+    There were a number of data structures used in this program. The first,
+    and most important, was a hash table. This data structure was used because
+    of its speed when trying to find data at a given index. This program
+    uses the built in c++ hash function which takes in a word and returns an
+    index. This was used to store and find words in the hash table with a 
+    complexity of O(1). Given a time constraint of 10 minutes, this data
+    structure was extremely useful. A hash table uses the c++ vector in order
+    to jump to various indicies with constant time.
+
+    A second data structure that this program uses is a linked list. At each
+    index of the hash table, there is a linked list holding all of the 
+    words with collisions (different words that resulted in the same hash
+    index). Linked lists were used instead of vectors to hold this data because
+    of the size efficiency that it offers. A vector often has empty indicies
+    which consume memory which is never used. A linked list offers an 
+    efficient solution where memory is only used when new nodes are added. This
+    allows for a quicker lookup time as well as space efficiency. 
+
+H) Testing Strategies:
+    To test various functions while building the program, we used extensive
+    printing to find errors. Many of the errors that we encountered were
+    segfaults. Because these do not indicate where the errors occured, we
+    added print statments to various places around the functions to find 
+    exactly where the program was breaking. 
+
+    Once the program was functional, we used diff testing to check our 
+    output against the reference implementation. We usesd the same 
+    directories and queries for both our program and the reference and used
+    diff to find differences. Because this program did not specify an order
+    to print the files, we sorted both output files alphabetically to
+    check differences. After various inputs of directories and words
+    resulted in zero differences, we were confident our program was implimented
+    correctly.
+
+    Finally, we used valgrind to test our memory leak errors. This program
+    ran our implementation and returned all the instances where we were 
+    losing track of memory. This allowed us to track memory leaks 
+    that were otherwise not visible when testing our program.

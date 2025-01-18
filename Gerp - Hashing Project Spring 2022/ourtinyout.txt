@@ -1,0 +1,4 @@
+/comp/15/files/proj3-test-dirs/tinyData/b/c/me:4: Its going to be lit!
+liTerature Not Found.
+tktk Not Found. Try with @insensitive or @i.
+thE Not Found. Try with @insensitive or @i.

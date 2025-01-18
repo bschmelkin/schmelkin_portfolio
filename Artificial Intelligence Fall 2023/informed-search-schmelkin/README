@@ -1,0 +1,6 @@
+Assignment: Informed Search
+Author: Ben Schmelkin
+
+This assignment has two solutions to the pancake problem: a-star and uniform cost search (UCS). The a-star algorithm was built first using the Gap Heuristic equation as well as keeping track of total flips to calculate a total distance from the goal whereas the UCS soulution only uses total flips to meausre the distance from the goal. The a-star algorithm works much faster becuase of the directed nature of the algorithm. Both implementations use a priority queue which is in a heap data structure to determine which node should be visited next. This uses the built in heapq from Python, and has getter and setter functions that are defined in each file. Both implementations also create the initial assortment of pancakes randomly using the shuffle() method from the Python library RANDOM. The a-star implementation takes 10 random numbers whereas the UCS takes 7 because of the potential speeds of both. Finally, the top of the pancake stack is at index 0 and the bottom is at index total - 1. 
+
+To run this program, run pancakes-a-star.py or Python pancakes-ucs.py in your python environment.

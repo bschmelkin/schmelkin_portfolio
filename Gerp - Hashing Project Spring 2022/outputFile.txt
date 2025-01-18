@@ -1,0 +1,39 @@
+yes Not Found. Try with @insensitive or @i.
+A[B Not Found. Try with @insensitive or @i.
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/4/11147/11147.txt:943: The flame that lit the battle's wreck,
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/6/11162/11162.txt:260: and lit it. But the Mugger's teeth had made holes in the kerosene tin,
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11184/11184.txt:332: and lit his pipe.  His one hope was that Constable Evans was going to try
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11188/11188.txt:377: An ugly scowl lit up the other's features.  "Don't you tell me any of
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:299: got out o' bed and lit the candle.  Ginger and Peter was both fast
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:323: Ginger got out o' bed and lit the candle agin.  "Come on!" he ses, "let's
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11473/11473.txt:194: Half awakened, he lit a candle, and, stumbling downstairs, drew back the
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:283: for dinner I sat down and lit my pipe and tried to think wot was to be
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11475/11475.txt:382: Mr. Billing lit his pipe noisily, and then took it out into the back-yard
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11480/11480.txt:133: paper packet of cigarettes from her pocket, lit a fresh one at the stub
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11480/11480.txt:205: home, lit the fire and sat before it, smoking.  The return of the four
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/1/12116/12116.txt:152:     She lit a match, it was so nice!
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12122/12122.txt:450: Her husband struck a match and lit the candle.  "Get back to bed," he
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12124/12124.txt:524: placed it on the edge of the well, and striking a match, lit the candle
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12125/12125.txt:95: fireplace.  His pipe lit, he turned to his niece, and slowly bade her go
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12126/12126.txt:197: the gas in his bedroom and lit it.  He opened the window a little way,
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12126/12126.txt:328: figure felt in his pocket, and, striking a match, lit the gas.
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/3/12131/12131.txt:351: Mr. Smith turned upon him a face all wrinkles, lit by one eye.  "I want
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/3/12132/12132.txt:278: "He struck a match and slowly lit the candles.  Then--I saw that the man
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12151/12151.txt:345: had finished lit his pipe and sat up in bed smoking.
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12151/12151.txt:442: He lit his pipe and sat up in bed smoking until a knock at the front
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12155/12155.txt:398: The noise became unendurable.  Mr. Cooper, who had just lit his pipe,
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12158/12158.txt:73: by placing one arm round her waist while she lit the lamp.  A sudden
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:154: noticed it was Ginger Dick.  Bill 'ad just lit 'is pipe, and as he threw
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/2/12220/12220.txt:74: room is lit at present only by this, the fire-light, and two candles in
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/4/9/13494/13494.txt:149: blinding him, and before he could recover from his surprise, lit on his
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/4/9/13494/13494.txt:436: The Bee flew around for a moment, and then lit on the back of the god's
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/8/7/13870/13870.txt:331: furnished with the utmost artistic taste and are all lit with
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/8/7/13870/13870.txt:373: winter garden dining-halls, which, especially when lit up by the soft
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/5/2/1/15211/15211.txt:450:   And coming dock was lit from home to sea.
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/5/2/1/15211/15211.txt:564:   The mounting of spirits lit the peak aglow
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/7/1/0/17104/17104.txt:86:   He lit the rocket and--she--oop!
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/3/1/7/3174/3174.txt:154: anywhere, but all the wilderness of dainty colors lit up with flooding
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/3/1/7/3174/3174.txt:221: alone.  A spark from the wood-fire was shot out, and it lit on the slope
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/1/5/8150/8150.txt:362: stall, without remarking how often hope had been lit and extinguished
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/9/3/1/9318/9318.txt:226: Janet had lit a fire in the unused grate, and hung a plaid by the window
+proj3-test-dirs/smallGutenberg/www.gutenberg.lib.md.us/9/3/1/9318/9318.txt:234: face lit up at the sight of his visitor, and the big hand, which was now

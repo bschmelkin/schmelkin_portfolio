@@ -1,0 +1,9 @@
+tktktk
+@i tktktk
+@insensitive insensitive
+@i insensitive
+@i yes LITERATURE
+@i literature
+query
+quit
+@quit

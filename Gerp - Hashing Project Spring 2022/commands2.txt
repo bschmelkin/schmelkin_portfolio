@@ -1,0 +1,8 @@
+worDs
+@i worDs
+WORDS
+@include
+@insensitive ElecTric
+%%%%%yes^^##
+@quiz
+@quit
