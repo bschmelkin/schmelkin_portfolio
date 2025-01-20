@@ -1,0 +1,28 @@
+Welcome to my portfolio! Here is a short description of the projects and assignments:
+
+- Sixfold Case Diagnostics Tool Summer 2024:
+    - Case diagnostics tool for Sixfold P&C cases. Provided insight to engineering and operations teams on all error payloads, 
+      processed events, analysis workflows, document metadata, and Pinecone nodes for each document.
+
+- Unqork Bulk Submissions Tool Summer 2020:
+    - Bulk submissions tool used for Unqork limit testing. Allows Unqork both engineering and operations teams to easily upload and delete
+      desired number of form responses with populated fake data.
+
+- Artificial Intelligence Fall 2023:
+    - genetic-algorithms-schmelkin: A genetic algorithms project to determine an optimal backpack to maximize size and items
+    - informed-search-schmelkin: An A* algorithm to determine the amount of flips required to correctly orient a stack of pancakes
+    - py_bt_1.0.4-schmelkin: A simple behavior tree for a roomba-like device
+    - sudoku_schmelkin: Using sudoku to implement a solution to the constraint satisfaciton problem
+
+- Gerp - Hashing Project Spring 2022:
+    - An implementation of the GREP funciton from scratch. This was the final project in my Data Structures class my freshman year.
+    The implementation uses a hash algorithm and can work on directories of over 60MB
+
+- New York Times Summer 2023:
+    - App Release Message / Best Newest Oldest Bar: This is the production release and feature of the "Best" / "Newest" / "Oldest"
+    sorting bar I added to the NYT Core News App
+    - Play Tab NYT: A screenshot of the "Play Tab" for NYT Core News App that I helped add for the iPad version.
+
+- Project - iOS ECFS Student App 5 Stars:
+    - Built and launched to the App Store an iOS app for Fieldston High School students (Swift, Google Firebase, Xcode, Cocoapods) 
+      Enabled students to manage their schedules, assignments, grades, and other important aspects of their school life

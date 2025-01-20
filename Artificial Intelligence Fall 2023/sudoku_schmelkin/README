@@ -3,8 +3,6 @@ Date: 11/17/23
 Course: Introduction to Artificial Intelligence
 Assignment 4
 
-Extension Info: I had a concusion for most of when this project was assigned so I took an extension because I needed a few extra days. I emailed the professor and he said all good!
-
 Running the program: python3 sudoku.py --> type 'easy' or 'hard' to solve either of the puzzles
 
 The code in sudoku.py is an implementation of solving the constraint satisfaction problem. This solution uses the concept of minimum remaining value to evaluate which cells should be looked at next and the solution is recursively found from there. Each time a cell is evaluated, the program finds all the unassigned indices (marked by a 0 in the matrix) and evaluates how many potential values could be filled in those spots. Whichever index has the least amount of possibilities is looked at next and each of the potential assignments are tried until one works. This solution takes advantage of recursion to back track to a point where the puzzle is solved up to that point. 
